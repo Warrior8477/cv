@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: rgb(231, 158, 22);
+    height: 2cm;
+}
+h2{
+    margin-left: 9cm;
+}
+
+.reason{
+    border: solid brown 2px;
+}
